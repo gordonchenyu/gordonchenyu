@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gordonchenyu
+- 👋 Hi, I’m LuckyNumber
 - 👀 I’m interested in coding to play lottery
 - 🌱 I’m currently learning JS, C# & PYTHON
 - 💞️ I’m looking to collaborate on predicting the numbers
